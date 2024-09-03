@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1725365377|12196725302';
+const CACHE_VERSION = '1725366141|393194304';
 /** @type {string} */
 const CACHE_PREFIX = 'Flappy Bird-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
